@@ -1,3 +1,6 @@
+body{
+	font-family: "Creepster", sans-serif;
+}
 .ca-container{
 	width: 1000px;
 	margin-left: auto;
@@ -7,9 +10,9 @@
 .ca-card{
 	width:140px;
 	height: 200px;
-	border: 1px solid #000000;
+	border: 1px solid #656565;
 	border-radius: 15px;
-	box-shadow: 1px 1px 1px #fff;
+	box-shadow: 0px 1px 5px 0.5px #000000;
 	background: #ffffff;
 	position: relative;
 	margin: 20px;
@@ -281,4 +284,5 @@ i{
 	left: -20px;
 	width: 140px;
 	height: 200px;
+	box-shadow: 0px 1px 5px 0.5px #000000;
 }
